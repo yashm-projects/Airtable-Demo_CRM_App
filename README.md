@@ -3,7 +3,7 @@
 This project is a complete end-to-end CRM system built using Airtable. It includes structured tables, relational links, dashboards, automations, and a front-end interface for teams.
 
 ## 🔗 Live Airtable Base
-[View CRM base (read-only)](your-airtable-link-here)
+[View CRM base (read-only)](https://airtable.com/appNfqJ3p01BTgCTd/shrt6BoFTNh59ExGX)
 
 
 ## 🔧 What’s Included
