@@ -5,6 +5,7 @@ This project is a complete end-to-end CRM system built using Airtable. It includ
 ## 🔗 Live Airtable Base
 [View CRM base (read-only)](https://airtable.com/appNfqJ3p01BTgCTd/shrt6BoFTNh59ExGX)
 
+📌 Sharing the Interface publicly requires an update to the team plan, whereas I am using the free version. You can check the screenshots below for the Interface. 
 
 ## 🔧 What’s Included
 
