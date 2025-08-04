@@ -26,6 +26,7 @@ This project is a complete end-to-end CRM system built using Airtable. It includ
 <img width="953" height="410" alt="image" src="https://github.com/user-attachments/assets/7b21ea61-2e04-4af9-9fdd-a2261ff5ef6f" />
 <img width="958" height="406" alt="image" src="https://github.com/user-attachments/assets/83574d90-7ff2-4203-9c2a-a1759292294c" />
 <img width="959" height="405" alt="image" src="https://github.com/user-attachments/assets/b7b84e7a-8982-4eb9-a56f-60b6056f080a" />
+<img width="958" height="410" alt="image" src="https://github.com/user-attachments/assets/ba7c1f37-4a17-4546-9fca-a2d7d3c0a9f5" />
 
 
 
