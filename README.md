@@ -30,14 +30,13 @@ This project is a complete end-to-end CRM system built using Airtable. It includ
 <img width="958" height="410" alt="image" src="https://github.com/user-attachments/assets/ba7c1f37-4a17-4546-9fca-a2d7d3c0a9f5" />
 
 
-
-
-
 ## 🧠 Key Learnings
 - System thinking and schema design
 - Using Airtable Interface Designer for internal tooling
 - Automating workflows inside Airtable
 
----
+
+💡 **Open to feedback and suggestions!**  
+I'd love to hear your thoughts on how this could be extended or improved
 
 **More projects coming soon!**
