@@ -5,6 +5,7 @@ This project is a complete end-to-end CRM system built using Airtable. It includ
 ## 🔗 Live Airtable Base
 [View CRM base (read-only)](your-airtable-link-here)
 
+
 ## 🔧 What’s Included
 
 - Tables such as Contacts, Companies, Deals, Tasks, Notes, Proposals
