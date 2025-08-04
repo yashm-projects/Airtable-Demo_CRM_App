@@ -13,7 +13,6 @@ This project is a complete end-to-end CRM system built using Airtable. It includ
 - Linked record structure and normalized schema
 - Interface Designer views for clean user interaction
 - Automations for task tracking, status changes, and activity flags
-- Sample dashboards for pipeline visualization
 - Built using 100% dummy data for safe sharing
 
 ## 🔁 Table Relationship
