@@ -32,7 +32,8 @@ This project is a complete end-to-end CRM system built using Airtable. It includ
 <img width="958" height="406" alt="image" src="https://github.com/user-attachments/assets/83574d90-7ff2-4203-9c2a-a1759292294c" />
 <img width="959" height="405" alt="image" src="https://github.com/user-attachments/assets/b7b84e7a-8982-4eb9-a56f-60b6056f080a" />
 <img width="958" height="410" alt="image" src="https://github.com/user-attachments/assets/ba7c1f37-4a17-4546-9fca-a2d7d3c0a9f5" />
-<img width="956" height="431" alt="image" src="https://github.com/user-attachments/assets/ef94c9bb-b39c-41b1-8ee3-aedb47154fce" /> <img width="941" height="377" alt="image" src="https://github.com/user-attachments/assets/10330bff-a97d-4bdf-a111-5ebdf187ef53" /> <img width="938" height="276" alt="image" src="https://github.com/user-attachments/assets/63c1eeb7-24fd-4f5a-a5a2-d6387854c300" />
+<img width="949" height="359" alt="image" src="https://github.com/user-attachments/assets/f1dfb77e-fc8c-48ba-a5c6-75a17f0ca1a6" />
+<img width="956" height="431" alt="image" src="https://github.com/user-attachments/assets/ef94c9bb-b39c-41b1-8ee3-aedb47154fce" /> <img width="941" height="377" alt="image" src="https://github.com/user-attachments/assets/10330bff-a97d-4bdf-a111-5ebdf187ef53" />
 
 
 
